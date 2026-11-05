@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-listings-react-inertia",
+  "capabilityKey": "liberusoftware/real-estate-listings",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-real-estate-listings-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/real-estate/nextjs/listings.md",
+  "presentationPlan": "projects/real-estate/react/listings.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
